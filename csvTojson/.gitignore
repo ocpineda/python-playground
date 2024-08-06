@@ -1,2 +1,4 @@
 *.csv
 *.json
+*.DS_STORE
+*.xlsx

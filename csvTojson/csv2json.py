@@ -1,6 +1,7 @@
 import csv
 import json
 
+# The first row of your CSV must be headers
 csv_file = 'convert-me.csv'
 json_file = 'output.json'
 
